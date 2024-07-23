@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852392237086",
+    "project_id": "automotora-fe753",
+    "storage_bucket": "automotora-fe753.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852392237086:android:493f39003b8794dce3360f",
+        "android_client_info": {
+          "package_name": "com.protectly.automotora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyYCy5akTENICWDUUl0-EvoA9AZJIqGZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
